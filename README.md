@@ -3,7 +3,7 @@
 Inspired by Prof.[Yang Chen](http://chenyang03.wordpress.com)'s [reading wiki](https://github.com/chenyang03/Reading/wiki))
 ## 1 Social Networks
 #### 1.1 Online Social Networks
-- [Online Social Networks: Surveys](https://github.com/willingnesshxl/Paper-Reading/wiki/OSN-Social-Survey)
+- [Online Social Networks: Surveys](https://github.com/willingnesshxl/Paper-Reading/OSN-Social-Survey)
 - [Online Social Networks: Social Graph Analysis](https://github.com/willingnesshxl/Paper-Reading/wiki/OSN-Social-Graph)
 - [Online Social Networks: User Behavior Analysis](https://github.com/willingnesshxl/Paper-Reading/wiki/OSN-User-Behavior)
 - [Online Social Networks: Security](https://github.com/willingnesshxl/Paper-Reading/wiki/OSN-Security)
