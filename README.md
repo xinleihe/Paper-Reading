@@ -28,5 +28,9 @@ Inspired by Prof.[Yang Chen](http://chenyang03.wordpress.com)'s [reading wiki](h
 
 ## 3 Deep Learning
 Many thanks to [floodsung's dl paper reading roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+
+- [CNN](https://github.com/willingnesshxl/Paper-Reading/wiki/CNN)
+
+
 #### 3.1 Deep Learning History and Basics
 
