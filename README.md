@@ -26,11 +26,13 @@ Inspired by Prof.[Yang Chen](http://chenyang03.wordpress.com)'s [reading wiki](h
 ## 2 Sensor
 - [to be continued](https://github.com/willingnesshxl/Paper-Reading/wiki/)
 
-## 3 Deep Learning
+## 3 Security & Privacy
+- [ML Privacy](https://github.com/willingnesshxl/Paper-Reading/wiki/ML-Privacy)
+## 4 Deep Learning
 Many thanks to [floodsung's dl paper reading roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 
 - [CNN](https://github.com/willingnesshxl/Paper-Reading/wiki/CNN)
 
 
-#### 3.1 Deep Learning History and Basics
+#### 4.1 Deep Learning History and Basics
 
