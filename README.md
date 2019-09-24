@@ -33,6 +33,5 @@ Many thanks to [floodsung's dl paper reading roadmap](https://github.com/floodsu
 
 - [CNN](https://github.com/willingnesshxl/Paper-Reading/wiki/CNN)
 
-
-#### 4.1 Deep Learning History and Basics
+## 5 Knowledge Tracing
 
